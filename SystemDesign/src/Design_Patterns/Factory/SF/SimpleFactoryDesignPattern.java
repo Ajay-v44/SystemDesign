@@ -1,4 +1,4 @@
-package Design_Patterns.Factory;
+package Design_Patterns.Factory.SF;
 
 // --- Burger Interface ---
 interface Burger {
