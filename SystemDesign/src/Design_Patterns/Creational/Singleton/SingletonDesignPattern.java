@@ -1,4 +1,4 @@
-package Design_Patterns.Singleton;
+package Design_Patterns.Creational.Singleton;
 
 public class SingletonDesignPattern {
     private static SingletonDesignPattern instance = null;

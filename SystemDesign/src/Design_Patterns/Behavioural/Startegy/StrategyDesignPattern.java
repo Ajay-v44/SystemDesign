@@ -1,4 +1,4 @@
-package Design_Patterns.Startegy;
+package Design_Patterns.Behavioural.Startegy;
 
 //strategy Interface For Walk
 interface WalkableRobot {

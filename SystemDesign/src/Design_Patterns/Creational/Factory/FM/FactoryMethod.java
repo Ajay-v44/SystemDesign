@@ -1,4 +1,4 @@
-package Design_Patterns.Factory.FM;
+package Design_Patterns.Creational.Factory.FM;
 // Product Interface and subclasses
 interface Burger {
     void prepare();

@@ -1,4 +1,4 @@
-package Design_Patterns.Factory.AF;
+package Design_Patterns.Creational.Factory.AF;
 
 // --- Product 1 --> Burger ---
 interface Burger {
